@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://yasewayajeri.pages.dev/sitemap.xml
